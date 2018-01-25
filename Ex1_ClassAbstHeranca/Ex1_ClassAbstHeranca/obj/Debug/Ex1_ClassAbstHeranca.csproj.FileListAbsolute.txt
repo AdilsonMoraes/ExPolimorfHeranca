@@ -1,0 +1,10 @@
+c:\users\adilson.moreira\source\repos\Ex1_ClassAbstHeranca\Ex1_ClassAbstHeranca\bin\Debug\Ex1_ClassAbstHeranca.exe.config
+c:\users\adilson.moreira\source\repos\Ex1_ClassAbstHeranca\Ex1_ClassAbstHeranca\bin\Debug\Ex1_ClassAbstHeranca.exe
+c:\users\adilson.moreira\source\repos\Ex1_ClassAbstHeranca\Ex1_ClassAbstHeranca\bin\Debug\Ex1_ClassAbstHeranca.pdb
+c:\users\adilson.moreira\source\repos\Ex1_ClassAbstHeranca\Ex1_ClassAbstHeranca\obj\Debug\Ex1_ClassAbstHeranca.csprojResolveAssemblyReference.cache
+c:\users\adilson.moreira\source\repos\Ex1_ClassAbstHeranca\Ex1_ClassAbstHeranca\obj\Debug\Ex1_ClassAbstHeranca.Form1.resources
+c:\users\adilson.moreira\source\repos\Ex1_ClassAbstHeranca\Ex1_ClassAbstHeranca\obj\Debug\Ex1_ClassAbstHeranca.Properties.Resources.resources
+c:\users\adilson.moreira\source\repos\Ex1_ClassAbstHeranca\Ex1_ClassAbstHeranca\obj\Debug\Ex1_ClassAbstHeranca.csproj.GenerateResource.Cache
+c:\users\adilson.moreira\source\repos\Ex1_ClassAbstHeranca\Ex1_ClassAbstHeranca\obj\Debug\Ex1_ClassAbstHeranca.csproj.CoreCompileInputs.cache
+c:\users\adilson.moreira\source\repos\Ex1_ClassAbstHeranca\Ex1_ClassAbstHeranca\obj\Debug\Ex1_ClassAbstHeranca.exe
+c:\users\adilson.moreira\source\repos\Ex1_ClassAbstHeranca\Ex1_ClassAbstHeranca\obj\Debug\Ex1_ClassAbstHeranca.pdb
